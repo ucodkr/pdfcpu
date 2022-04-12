@@ -23,8 +23,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/pdfcpu/pdfcpu/pkg/api"
-	"github.com/pdfcpu/pdfcpu/pkg/pdfcpu"
+	"github.com/ucodkr/pdfcpu/pkg/api"
+	"github.com/ucodkr/pdfcpu/pkg/pdfcpu"
 )
 
 func TestExtractImages(t *testing.T) {

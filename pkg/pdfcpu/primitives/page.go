@@ -20,7 +20,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/pdfcpu/pdfcpu/pkg/pdfcpu"
+	"github.com/ucodkr/pdfcpu/pkg/pdfcpu"
 	"github.com/pkg/errors"
 )
 

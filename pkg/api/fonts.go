@@ -23,9 +23,9 @@ import (
 	"sort"
 	"unicode/utf8"
 
-	"github.com/pdfcpu/pdfcpu/pkg/font"
-	"github.com/pdfcpu/pdfcpu/pkg/log"
-	pdf "github.com/pdfcpu/pdfcpu/pkg/pdfcpu"
+	"github.com/ucodkr/pdfcpu/pkg/font"
+	"github.com/ucodkr/pdfcpu/pkg/log"
+	pdf "github.com/ucodkr/pdfcpu/pkg/pdfcpu"
 	"github.com/pkg/errors"
 )
 

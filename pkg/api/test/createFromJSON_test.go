@@ -20,8 +20,8 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/pdfcpu/pdfcpu/pkg/api"
-	"github.com/pdfcpu/pdfcpu/pkg/pdfcpu"
+	"github.com/ucodkr/pdfcpu/pkg/api"
+	"github.com/ucodkr/pdfcpu/pkg/pdfcpu"
 )
 
 func createText(t *testing.T, msg, inDir, jsonFile, outDir, outFile string, conf *pdfcpu.Configuration) {

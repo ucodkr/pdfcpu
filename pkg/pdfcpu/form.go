@@ -19,7 +19,7 @@ package pdfcpu
 import (
 	"strings"
 
-	pdffont "github.com/pdfcpu/pdfcpu/pkg/font"
+	pdffont "github.com/ucodkr/pdfcpu/pkg/font"
 	"github.com/pkg/errors"
 )
 

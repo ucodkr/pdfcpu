@@ -20,8 +20,8 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/pdfcpu/pdfcpu/pkg/api"
-	pdf "github.com/pdfcpu/pdfcpu/pkg/pdfcpu"
+	"github.com/ucodkr/pdfcpu/pkg/api"
+	pdf "github.com/ucodkr/pdfcpu/pkg/pdfcpu"
 )
 
 var textAnn pdf.AnnotationRenderer = pdf.NewTextAnnotation(

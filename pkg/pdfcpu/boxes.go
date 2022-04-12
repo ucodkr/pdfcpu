@@ -21,7 +21,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/pdfcpu/pdfcpu/pkg/types"
+	"github.com/ucodkr/pdfcpu/pkg/types"
 	"github.com/pkg/errors"
 )
 

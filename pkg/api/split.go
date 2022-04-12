@@ -25,8 +25,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/pdfcpu/pdfcpu/pkg/log"
-	"github.com/pdfcpu/pdfcpu/pkg/pdfcpu"
+	"github.com/ucodkr/pdfcpu/pkg/log"
+	"github.com/ucodkr/pdfcpu/pkg/pdfcpu"
 )
 
 type PageSpan struct {

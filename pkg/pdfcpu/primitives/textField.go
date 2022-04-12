@@ -21,8 +21,8 @@ import (
 	"fmt"
 	"unicode/utf8"
 
-	"github.com/pdfcpu/pdfcpu/pkg/font"
-	"github.com/pdfcpu/pdfcpu/pkg/pdfcpu"
+	"github.com/ucodkr/pdfcpu/pkg/font"
+	"github.com/ucodkr/pdfcpu/pkg/pdfcpu"
 	"github.com/pkg/errors"
 )
 

@@ -30,10 +30,10 @@ import (
 	"time"
 	"unicode/utf16"
 
-	"github.com/pdfcpu/pdfcpu/pkg/filter"
-	"github.com/pdfcpu/pdfcpu/pkg/font"
-	"github.com/pdfcpu/pdfcpu/pkg/log"
-	"github.com/pdfcpu/pdfcpu/pkg/types"
+	"github.com/ucodkr/pdfcpu/pkg/filter"
+	"github.com/ucodkr/pdfcpu/pkg/font"
+	"github.com/ucodkr/pdfcpu/pkg/log"
+	"github.com/ucodkr/pdfcpu/pkg/types"
 
 	"github.com/pkg/errors"
 )

@@ -73,7 +73,7 @@
 		},
 		"logo_gh": {
 			"file": "$logo_gh",
-			"url": "https://github.com/pdfcpu/pdfcpu",
+			"url": "https://github.com/ucodkr/pdfcpu",
 			"margin": {
 				"width": 5
 			}

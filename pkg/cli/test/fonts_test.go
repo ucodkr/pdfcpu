@@ -20,7 +20,7 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/pdfcpu/pdfcpu/pkg/cli"
+	"github.com/ucodkr/pdfcpu/pkg/cli"
 )
 
 func TestInstallFontsCommand(t *testing.T) {

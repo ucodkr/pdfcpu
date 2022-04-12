@@ -23,8 +23,8 @@ import (
 	"strconv"
 	"strings"
 
-	pdffont "github.com/pdfcpu/pdfcpu/pkg/font"
-	"github.com/pdfcpu/pdfcpu/pkg/pdfcpu"
+	pdffont "github.com/ucodkr/pdfcpu/pkg/font"
+	"github.com/ucodkr/pdfcpu/pkg/pdfcpu"
 	"github.com/pkg/errors"
 )
 

@@ -22,7 +22,7 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/pdfcpu/pdfcpu/pkg/log"
+	"github.com/ucodkr/pdfcpu/pkg/log"
 	"github.com/pkg/errors"
 )
 
