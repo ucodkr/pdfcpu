@@ -398,3 +398,7 @@ func parseContent(s string) (PageResourceNames, error) {
 		return nil, errPageContentCorrupt
 	}
 }
+
+func ParseContent(s string) (PageResourceNames, error) {
+	return parseContent(s)
+}
